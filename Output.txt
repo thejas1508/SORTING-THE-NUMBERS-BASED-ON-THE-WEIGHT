@@ -1,1 +1,12 @@
-
+Enter the Number of elements in an array : 5 
+Enter 5 elements :
+45
+23
+176
+8
+32
+<45,0>
+<23,0>
+<176,0>
+<8,3>
+<32,5>
